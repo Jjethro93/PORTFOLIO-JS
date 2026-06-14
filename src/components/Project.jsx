@@ -202,7 +202,9 @@ function Project({ darkMode }) {
 
                 <div className="text-center mt-10">
 
-                    <a href="#"
+                    <a href="https://github.com/Jjethro93"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         style={{
                             background: "linear-gradient(to right, #f97316, #f59e0b)",
 
