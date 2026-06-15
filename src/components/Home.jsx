@@ -56,7 +56,7 @@ function Home({ darkMode }) {
                     <div className="lg:w-1/2 w-full flex flex-col items-center
                 lg:items-start text-center lg:text-left mb-12 lg:mb-0">
 
-                        <div className="flex justify-center lg:justify-start
+                        <div className="flex justify-center items-center
                     gap-4 sm:gap-6 mb-6 sm:mb-7 w-full">
                             {socialIcons.map((social, index) => (
                                 <a
@@ -69,7 +69,7 @@ function Home({ darkMode }) {
                                 >
                                     <img src={social.icon}
                                         alt={social.alt}
-                                        className={`w-8 h-8 sm:w-10 sm:h-10
+                                        className={`w-8 h-8 sm:w-10 sm:h-10 z-100
                                     object-contain ${darkMode
                                                 ? '' :
                                                 'filter brightness-75'
