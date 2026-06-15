@@ -1,9 +1,10 @@
-import { FaExternalLinkAlt, FaGithubAlt } from "react-icons/fa"
-import conversor from "../assets/ConversorMoeda.jpg"
-import Landingpage from "../assets/Landing-page.jpg"
-import Burguer from "../assets/DevBurguer.jpg"
-import Bills from "../assets/Devbills.jpg"
-import MarioP from "../assets/MarioPlumber.jpg"
+import { FaExternalLinkAlt, FaGithubAlt } from "react-icons/fa";
+import conversor from "../assets/ConversorMoeda.jpg";
+import Landingpage from "../assets/Landing-page.jpg";
+import Burguer from "../assets/DevBurguer.jpg";
+import Bills from "../assets/Devbills.jpg";
+import MarioP from "../assets/MarioPlumber.jpg";
+import pratico from "../assets/Test-pratico.jpg";
 
 
 
@@ -59,6 +60,16 @@ function Project({ darkMode }) {
             code: "https://github.com/Jjethro93/DevBills",
             demo: "",
             tags: ['TypeScript', 'Tailwind', 'yarn']
+        },
+
+        {
+            id: 6,
+            title: 'Test-Pratico',
+            description: 'Aplicação desenvolvida como teste técnico para a eContact, com gerenciamento de conversas, filtros de pesquisa, arquivamento de mensagens, suporte multilíngue e interface responsiva.',
+            image: pratico,
+            code: "https://github.com/Jjethro93/Teste_Pratico-enContact",
+            demo: "https://jjethro93.github.io/Teste_Pratico-enContact/",
+            tags: ['TypeScript', 'Tailwind', 'React', 'i18n']
         },
 
 
