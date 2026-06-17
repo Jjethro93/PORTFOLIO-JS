@@ -86,7 +86,7 @@ function Home({ darkMode }) {
                             data-aos="fade-up"
                             data-aos-delay="500"
                         >
-                            Sou Jethro Sufra, <span className="text-orange-500">Desenvolverdor Front-End.</span>
+                            Sou Jethro Sufra, <span className="text-orange-500">Desenvolvedor Full-Stack.</span>
                         </h1>
 
                         <p className={`mb-6 sm:mb-8 leading-relaxed max-w-md

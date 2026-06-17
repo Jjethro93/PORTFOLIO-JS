@@ -59,8 +59,8 @@ function About({ darkMode }) {
                         data-aos='fade-up'
                         data-aos-delay='500'
                     >
-                        Estou em transição de carreira para o desenvolvimento Front-End, transformando minha paixão por tecnologia em profissão. 
-                        Tenho desenvolvido projetos com React, JavaScript, TypeScript e Tailwind CSS, focando na criação de interfaces modernas, responsivas e intuitivas. 
+                        Estou em transição de carreira para o desenvolvimento Full-Stack, transformando minha paixão por tecnologia em profissão. 
+                        Tenho desenvolvido projetos com React, JavaScript, TypeScript e Tailwind CSS, node.js, focando na criação de interfaces modernas, responsivas e intuitivas. 
                         Busco crescer continuamente e contribuir com soluções que gerem impacto real para os usuários.
                     </p>
                     <div

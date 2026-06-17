@@ -33,7 +33,7 @@ const Footer = ({darkMode}) => {
                 style={{
                     color: darkMode ? "#9ca3af" : "#6b7280"
                 }}>
-                     Desenvolvedor Font-end Jr. & Prompt Eng. Jr.
+                     Desenvolvedor Full-Stack Jr. & Prompt Eng. Jr.
 
                 </p>
             </div>

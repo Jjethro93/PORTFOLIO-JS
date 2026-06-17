@@ -214,7 +214,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
                     text-white shadow-md
                     `}>
 
-                Contact Me
+                Me contactar
               </motion.a>
 
             </div>

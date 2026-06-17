@@ -39,13 +39,13 @@ function Skills({darkMode}) {
                     color:darkMode ? "white" : "#1f2937"
                  }}
                  >
-                    As <span style={{
+                    Minhas <span style={{
                         background:"linear-gradient(to right, #f97316, #f59e0b)",
                         WebkitBackgroundClip:"text",
                         backgroundClip:"text",
                         color:"transparent"
                     }}>
-                        Technologias
+                        Habilidades
                     </span>
                  </h1>
                  <p clasName="text-lg max-w-2xl mx-auto leading-relaxed"

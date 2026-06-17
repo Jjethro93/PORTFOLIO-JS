@@ -29,7 +29,7 @@ function Project({ darkMode }) {
             image: MarioP,
             code: "https://github.com/Jjethro93/JS_Mario_Encanador",
             demo: "https://jjethro93.github.io/JS_Mario_Encanador/",
-            tags: ['HTML', 'CSS', 'JS']
+            tags: ['HTML', 'CSS', 'JavaScript']
         },
 
         {
@@ -39,7 +39,7 @@ function Project({ darkMode }) {
             image: Landingpage,
             code: "https://github.com/Jjethro93/Landingpage-restaurante",
             demo: "https://jjethro93.github.io/Landingpage-restaurante/",
-            tags: ['HTML', 'CSS', 'JS']
+            tags: ['HTML', 'CSS', 'JavaScript']
         },
 
         {
@@ -49,7 +49,7 @@ function Project({ darkMode }) {
             image: Burguer,
             code: "https://github.com/Jjethro93/dev-burger-interface",
             demo: "",
-            tags: ['React', 'JavaScript', 'styled-components']
+            tags: ['React', 'JavaScript', 'styled-components', 'Docker', 'Node.js']
         },
 
         {
@@ -59,7 +59,7 @@ function Project({ darkMode }) {
             image: Bills,
             code: "https://github.com/Jjethro93/DevBills",
             demo: "",
-            tags: ['TypeScript', 'Tailwind', 'yarn']
+            tags: ['TypeScript', 'Tailwind', 'yarn', 'Node.js', 'mongoDB']
         },
 
         {
@@ -69,7 +69,7 @@ function Project({ darkMode }) {
             image: pratico,
             code: "https://github.com/Jjethro93/Teste_Pratico-enContact",
             demo: "https://jjethro93.github.io/Teste_Pratico-enContact/",
-            tags: ['TypeScript', 'Tailwind', 'React', 'i18n']
+            tags: ['TypeScript', 'Tailwind', 'React', 'i18n', 'API']
         },
 
 
@@ -95,15 +95,15 @@ function Project({ darkMode }) {
                     >
 
 
-                        Meus
-                        <span
+                        Meus  
+                          <span
                             style={{
                                 background: "linear-gradient(to right, #f97316, #f59e0b)",
                                 WebkitBackgroundClip: "text",
                                 backgroundClip: "text",
                                 color: "transparent"
                             }}
-                        >Projetos</span>
+                        >  Projetos</span>
                     </h2>
 
                     <p className="max-w-xl mx-auto"
